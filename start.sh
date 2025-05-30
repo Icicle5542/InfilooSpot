@@ -1,4 +1,5 @@
 #!/bin/bash
 echo start infiloospot...
-python /home/infiloo/Documents/InfilooSpot/InfilooSpot/InfilooSpot.py
+source /home/icicle/Documents/InfilooSpot/InfilooSpot/venv/bin/activate
+python /home/icicle/Documents/InfilooSpot/InfilooSpot/InfilooSpot.py
 
